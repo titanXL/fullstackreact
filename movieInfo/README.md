@@ -1,1 +1,1 @@
-react frontend express backend using a proxy
+react frontend express backend 
