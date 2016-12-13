@@ -2,12 +2,12 @@
   "name": "movieInfo",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3001/",
   "devDependencies": {
     "react-scripts": "0.8.4"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
     "express": "^4.14.0",
     "fs": "0.0.1-security",
     "jquery": "^3.1.1",

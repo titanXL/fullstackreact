@@ -4,7 +4,7 @@ const Requester = (function () {
   function getMovies () {
     return $.ajax({
       method:'GET',
-      url:'/api/movies'
+      url: 'http://localhost:3001/api/movies'
 
     })
   }
